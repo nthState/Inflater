@@ -1,3 +1,3 @@
-# Inflater
+# SwiftUI Inflater
 
-A description of this package.
+Inflates a Shape
